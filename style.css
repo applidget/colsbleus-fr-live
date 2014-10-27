@@ -8,6 +8,11 @@ body {
   font-size: 15px;
 }
 
+h2 {
+  text-align:center;
+  color:#646464;
+}
+
 .page {
   margin: 0 auto;
   max-width: 920px;
